@@ -1,8 +1,9 @@
 <div align="center">
 
 <br/>
-
-file:///home/bandit/Downloads/Gemini_Generated_Image_ts7cl2ts7cl2ts7c.png
+<p align="center">
+  <img src="logo.png" alt="Project Logo" width="600">
+</p>
 
 
 <br/>

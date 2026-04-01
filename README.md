@@ -108,6 +108,10 @@ Harness Kit isn't a wrapper. It is 5 distinct, highly-opinionated subsystems.
 * **How:** Splits memory into *Episodic* (cross-session persistent logs) and *Working* (current context window). Uses a strictly-typed, write-protected `FeatureManifest.json`—the agent can only flip flags to `true`, it cannot creatively rewrite your spec. Universal undo via `GitCheckpointer` on every failed loop.
 
 ---
+<p align="center">
+  <img src="architecture.png" alt="Harness Kit Logo" width="100%" />
+</p>
+
 
 ## 🔌 Compatibility & Ecosystem
 
